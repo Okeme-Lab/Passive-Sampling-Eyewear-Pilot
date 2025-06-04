@@ -1,0 +1,521 @@
+Metabolite_name,LogKOA_pred,KOA_predRange,AD_KOA,AD_index_KOA,Conf_index_KOA
+"low score: 1,2-dihydroxyheptadec-16-yn-4-yl acetate major",9.2,[7.49:10.91],0,0.314,0.412
+low score: DEP 174.1277 10.3,7.71,[6.25:9.17],1,0.756,0.537
+no MS2: Triacylglycerol 16:0-18:1-18:1,11.67,[11.39:11.95],0,0.177,0.571
+no MS2: Triacylglycerol 18:1-18:1-18:2,11.67,[11.39:11.95],0,0.169,0.569
+no MS2: Triacylglycerol 12:0-16:0-16:0,11.67,[11.39:11.95],0,0.22,0.586
+no MS2: Triacylglycerol 17:0-18:1-18:1,11.67,[11.39:11.95],0,0.172,0.57
+Tris(2-chloroethyl)phosphate,8.41,[8.29:8.55],1,0.954,0.921
+low score: EP M451,9.38,[7.64:11.12],0,0.164,0.355
+no MS2: Dihydrochalcone,7.81,[7.3:8.32],1,0.939,0.857
+no MS2: Enterobactin,9.6,[7.87:11.33],0,0.042,0.312
+no MS2: Phencyclidine,8.63,[8.59:8.64],1,0.998,0.97
+low score: Cyclohexylamine,4.75,[4.14:5.18],1,0.911,0.765
+no MS2: 5-VALEROLACTONE,3.72,[3.57:3.87],1,0.974,0.904
+low score: Caryophyllene [T(-)],6.09,[5.8:6.38],1,0.943,0.876
+no MS2: Smenospongin C,10.34,[8.85:11.83],0,0.423,0.437
+"low score: (6E)-2,6,10-trimethyldodeca-6,11-diene-2,3,10-triol major",8.53,[7.44:9.81],0,0.188,0.416
+no MS2: Mycophenolic acid,9.35,[7.61:11.09],0,0.288,0.397
+no MS2: Phytol major,10.62,[9.41:11.83],1,0.812,0.608
+low score: NVE 274.1802 16.6,10.36,[9.14:11.58],1,0.816,0.612
+17alpha-Hydroxyprogesterone,10.75,[9.3:12.06],1,0.64,0.508
+"no MS2: NCGC00169592-02 C29H46O4 3aH-Cyclopenta[a]chrysene-3a-carboxylic acid, 1-acetyleicosahydro-9-hydroxy-5a,5b,8,8,11a-pentamethyl-, (1R,3aS,5aR,5bR,9S,11aR)-",9.58,[7.83:11.33],0,0.242,0.377
+no MS2: (NAG)(anMUR)-None,9.53,[7.79:11.27],0,0.069,0.322
+"no MS2: NCGC00385642-01!1,4-dihydroxyheptadec-16-en-2-yl acetate",9.24,[7.52:10.96],0,0.308,0.408
+no MS2: MLS002154113-01!Nomegestrol acetate58652-20-3,11.69,[11.4:11.98],1,0.925,0.815
+no MS2: NCGC00380981-01 C28H40O5 ,11.69,[11.41:11.97],1,0.608,0.716
+no MS2: IRGANOX 1098; MALDI-TOFTOF; MS2; CE,9.5,[7.76:11.24],0,0.105,0.334
+no MS2: Bosentan,9.72,[7.98:11.46],0,0.192,0.359
+no MS2: Benzethonium,11.74,[11.48:12],1,0.874,0.811
+no MS2: NCGC00180375-03!,9.39,[7.65:11.13],0,0.163,0.355
+"no MS2: NCGC00347557-02!4,4,10,13,14-pentamethyl-17-(1,5,6-trihydroxy-6-methylheptan-2-yl)-2,3,5,6,7,11,12,15,16,17-decahydro-1H-cyclopenta[a]phenanthrene-2,3,12-triol",9.53,[7.79:11.27],0,0.068,0.321
+"no MS2: NCGC00380738-01!3,5-dihydroxy-4-[3,4,5-trihydroxy-6-[[4-(2-hydroxypropan-2-yl)cyclohexene-1-carbonyl]oxymethyl]oxan-2-yl]oxybenzoic acid",9.56,[7.82:11.3],0,0.057,0.317
+"no MS2: NCGC00169462-02!17-(2,6-dihydroxy-6-methyl-3-oxoheptan-2-yl)-2,16-dihydroxy-4,4,9,13,14-pentamethyl-3-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-1,2,3,7,8,10,12,15,16,17-decahydrocyclopenta[a]phenanthren-11-one",9.58,[7.85:11.31],0,0.048,0.314
+"low score: NCGC00168839-02!(2S,3R,5R,10R,13R,14S,17S)-2,3,14-trihydroxy-10,13-dimethyl-17-[(2R,3R)-2,3,6-trihydroxy-6-methylheptan-2-yl]-2,3,4,5,9,11,12,15,16,17-decahydro-1H-cyclopenta[a]phenanthren-6-one",9.53,[7.79:11.27],0,0.068,0.321
+"no MS2: NCGC00347764-02![4-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyphenyl]methyl 2-[(E)-3-(4-hydroxyphenyl)prop-2-enoyl]oxy-3-methyl-3-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxybutanoate",9.59,[7.86:11.32],0,0.042,0.312
+no MS2: Okaramine J 120151,9.51,[7.77:11.25],0,0.104,0.333
+no MS2: Ginsenoside Rh3; PlaSMA ID-3010,9.52,[7.78:11.26],0,0.083,0.326
+no MS2: Ginsenoside compound K; PlaSMA ID-3068,9.54,[7.8:11.28],0,0.067,0.321
+no MS2: Solanesol major,11.38,[10.54:12.06],0,0.209,0.459
+"no MS2: NCGC00380516-01![12-hydroxy-6-(hydroxymethyl)-10-methyl-2-(4-methylpent-3-enyl)dodeca-2,6,10-trienyl] acetate",9.43,[7.69:11.17],0,0.276,0.391
+"no MS2: 5,7-diacetoxy-3-benzoyloxy-14,15-dihydroxy-8-isobutyryloxy-9-oxojatropha-6(17),11E-diene (9)",9.72,[7.98:11.46],0,0.194,0.359
+"no MS2: NCGC00380949-01 C28H42O5 3,5,9,23-Tetrahydroxy-18,22-cycloergosta-6,8(14)-dien-11-one",9.45,[7.71:11.19],0,0.113,0.337
+no MS2: Campesterol; LC-APPI-QQ; MS2; CE,10.39,[8.9:11.88],0,0.456,0.448
+no MS2: Lopinavir (ABT-378),9.55,[7.81:11.29],0,0.099,0.331
+no MS2: Trachelanthine; PlaSMA ID-1561,8.19,[7.44:9.06],0,0.389,0.534
+"no MS2: NCGC00380148-01!6-(2,4-dihydroxy-3,5-dimethylhexyl)-4-hydroxy-3-methylpyran-2-one",9.04,[7.44:10.72],0,0.341,0.428
+no MS2: NCGC00381190-01 C27H29N5O5 ,9.48,[7.74:11.22],0,0.109,0.335
+"low score: NCGC00169715-02 C20H30O2 Abieta-8(14),9(11),12-triene-7,18-diol",9.2,[7.49:10.91],0,0.315,0.412
+no MS2: MLS002222329-01!26305-03-3,9.59,[7.86:11.32],0,0.048,0.314
+"no MS2: NCGC00347652-02 C35H53N5O7 12-Benzyl-3-isobutyl-6,9-diisopropyl-5,8-dimethyldodecahydro-1H,3H-pyrrolo[1,2-q][1,4,7,10,13,17]oxapentaazacyclononadecine-1,4,7,10,13,17(14H)-hexone",9.75,[8.02:11.48],0,0.169,0.351
+no MS2: MLS001333092-01!5-Cholesten-3beta-ol-7-one566-28-9,10.36,[8.87:11.85],0,0.435,0.441
+no MS2: NCGC00381175-01!3-hydroxy-2-[[3-[3-(3-hydroxy-6-methylheptanoyl)oxy-6-methylheptanoyl]oxy-8-methylnonanoyl]amino]propanoic acid,9.46,[7.72:11.2],0,0.111,0.337
+low score: NCGC00380970-01!3-hydroxy-2-[[3-(3-hydroxy-6-methylheptanoyl)oxy-8-methylnonanoyl]amino]propanoic acid,9.41,[7.67:11.15],0,0.116,0.339
+no MS2: (+-)-alpha-Tocopherol Acetateacid ester,11.68,[11.4:11.96],1,0.534,0.691
+Diisobutyl phthalate,8.21,[8.02:8.4],1,0.997,0.907
+no MS2: Leupeptin; LC-ESI-QTOF; MS2; CE,9.52,[7.78:11.26],0,0.069,0.322
+no MS2: N-tert-Butylisopropylamine,4.29,[3.8:4.78],1,0.965,0.803
+no MS2: Dihydroergocristine,9.57,[7.83:11.31],0,0.131,0.341
+"no MS2: NCGC00381348-01 C15H28O3 1,2-Cyclohexanediol, 4-[(3E)-5-hydroxy-1,5-dimethyl-3-hexen-1-yl]-1-methyl-",8.53,[7.44:9.81],0,0.188,0.416
+no MS2: Ursocholanic Acid major,10.56,[9.08:12.04],0,0.555,0.48
+no MS2: Lithocholic acid,9.42,[7.68:11.16],0,0.276,0.391
+"no MS2: NCGC00380894-01 C22H36O5 1-Naphthalenepentanoic acid, 4-(acetyloxy)-3,4,4a,5,6,7,8,8a-octahydro-3-hydroxy-beta,2,5,5,8a-pentamethyl-",9.37,[7.63:11.11],0,0.286,0.396
+"no MS2: NCGC00381095-01 C26H44O8 7-Hydroxy-4-[(3Z)-5-hydroxy-3-methyl-3-penten-1-yl]-4a,8,8-trimethyl-3-methylenedecahydro-2-naphthalenyl beta-D-mannopyranoside",9.53,[7.79:11.27],0,0.069,0.321
+"no MS2: NCGC00385919-01 C20H34O 2-Penten-1-ol, 5-[(1S,4aS,8aS)-decahydro-5,5,8a-trimethyl-2-methylene-1-naphthalenyl]-3-methyl-, (2E)-",10.61,[9.41:11.81],1,0.815,0.61
+"no MS2: NCGC00180676-03 C20H36O3 1-Naphthalenepentanoic acid, decahydro-2-hydroxy-beta,2,5,5,8a-pentamethyl-, (betaS,1R,2R,8aS)-",9.18,[7.47:10.89],0,0.317,0.413
+"no MS2: NCGC00385003-01!4-[3-methyl-5-(5,6,7-trihydroxy-1,2,4a,5-tetramethyl-3,4,6,7,8,8a-hexahydro-2H-naphthalen-1-yl)pentoxy]-4-oxobutanoic acid",9.43,[7.69:11.17],0,0.115,0.338
+"low score: NCGC00380160-01 C24H40O5 4-{[5-(7-Hydroxy-5,5,8a-trimethyl-2-methylenedecahydro-1-naphthalenyl)-3-methylpentyl]oxy}-4-oxobutanoic acid",9.46,[7.72:11.2],0,0.269,0.388
+"low score: NCGC00180747-02!5-[(1S,2R,4aR)-1,2,4a,5-tetramethyl-7-oxo-3,4,8,8a-tetrahydro-2H-naphthalen-1-yl]-3-methylpentanoic acid [IIN-based on: CCMSLIB00000848900]",11.49,[10.37:12.06],1,0.875,0.611
+Tris(1-chloro-2-propyl)phosphate,8.85,[8.65:9.05],1,0.964,0.908
+"no MS2: NCGC00347555-02!2-(21-amino-3,20-dihydroxydocosan-2-yl)oxy-6-(hydroxymethyl)oxane-3,4,5-triol",9.56,[7.82:11.3],0,0.057,0.317
+no MS2: NCGC00385670-01!N-(10-hydroxy-10-methylundecyl)acetamide,8.14,[7.44:8.97],0,0.424,0.553
+no MS2: NCGC00380284-01!N-(5-acetamidopentyl)acetamide,7.84,[7.35:8.33],1,0.863,0.755
+no MS2: NCGC00381386-01!2-(7-hydroxy-6-methyloctyl)-2H-furan-5-one,9.13,[7.73:10.53],1,0.844,0.585
+"no MS2: NCGC00380136-01!1-(2,3-dihydropyrrol-1-yl)-8,9-dihydroxy-2-methyldecane-1,3-dione",9.12,[7.44:10.82],0,0.328,0.42
+"no MS2: NCGC00384949-01!2-(hydroxymethyl)-6-(2,20,21-trihydroxydocosan-3-yloxy)oxane-3,4,5-triol",9.56,[7.82:11.3],0,0.057,0.317
+low score: 1-PHENYLETHANOL,5.78,[4.43:7.13],1,0.854,0.625
+no MS2: NCGC00179830-03!2-[5-[2-[2-[5-(2-hydroxypropyl)oxolan-2-yl]propanoyloxy]propyl]oxolan-2-yl]propanoic acid,9.35,[7.61:11.09],0,0.289,0.398
+"no MS2: NCGC00380425-01!1-(3,5-dihydroxyphenyl)-12-hydroxytridecan-2-one",9.29,[7.56:11.02],0,0.176,0.362
+"no MS2: NCGC00169259-02![1-(3,5-dihydroxyphenyl)-12-hydroxytridecan-2-yl] acetate",9.31,[7.58:11.04],0,0.173,0.36
+"no MS2: NCGC00381202-01!3,15-dihydroxyhexadecanoic acid",9.22,[7.5:10.94],0,0.184,0.367
+"no MS2: (1-(5-Fluoropentyl)-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)methanone",10.9,[10.81:10.99],1,0.992,0.933
+"no MS2: NCGC00381327-01 C21H28O6 2H,11H-Naphtho[2,1-b]pyrano[3,2-e]pyran-9-carboxylic acid, 1,3,4,4a,5,6,6a,12,12a,12b-decahydro-3-hydroxy-4,4,6a,12b-tetramethyl-11-oxo-",9.43,[7.69:11.17],0,0.274,0.391
+no MS2: Isophorone diamine,7.84,[7.24:8.44],1,0.647,0.663
+"low score: 4-Hydroxy-1-(2-hydroxyethyl)-2,2,6,6-tetramethylpiperidine",7.93,[7.44:8.46],0,0.563,0.625
+no MS2: Soyasapogenol A; PlaSMA ID-2579,9.45,[7.71:11.19],0,0.113,0.337
+"no MS2: 8-Hydroxy-13,14,15,16-tetranor-12-labdanoic acid",8.37,[7.44:9.55],0,0.373,0.494
+no MS2: MLS001148136-01!,9.51,[7.76:11.26],0,0.26,0.384
+no MS2: Diacetylpyxinol,10.21,[8.72:11.7],0,0.307,0.399
+"no MS2: NCGC00381206-01 C40H60O10 1-Naphthalenebutanoic acid, decahydro-beta,6-dihydroxy-alpha-(2-hydroxyethylidene)-5-(hydroxymethyl)-5,8a-dimethyl-2-methylene-, (4E)-4-[2-[(1R,4aS,5R,6R,8aS)-decahydro-6-hydroxy-5-(hydroxymethyl)-5,8a-dimethyl-2-methylene-1-naphthalenyl]ethylidene]tetrahydro-5-oxo-3-furanyl ester, (alphaE,1R,4aS,5R,6R,8aS)-",9.56,[7.82:11.3],0,0.066,0.32
+"(8R,9S,10R,13S,14S,17S)-17-hydroxy-10,13,17-trimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-3-one",11.43,[10.26:12.06],1,0.855,0.601
+"no MS2: NCGC00384837-01 C19H32O2 14-(Hydroxymethyl)-5,9-dimethyltetracyclo[11.2.1.0~1,10~.0~4,9~]hexadecan-5-ol",9.14,[7.44:10.84],0,0.324,0.417
+"no MS2: NCGC00179780-02 C20H32O (5xi,9xi)-Beyer-15-en-18-ol",10.62,[9.4:11.84],1,0.806,0.603
+no MS2: Dehydroepiandrosterone; LC-APPI-QQ; MS2; CE,10.99,[9.66:12.06],1,0.791,0.57
+"no MS2: MLS002207247-01!(8R,9S,10R,13S,14S)-10,13-dimethyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthrene-3,17-dione",9.34,[8.85:9.82],1,0.994,0.821
+no MS2: MLS000069748-01!5ALPHA-ANDROST-16-EN-3-ONE,8.76,[8.36:9.26],1,0.992,0.813
+no MS2: Epiandrosterone; LC-APPI-QQ; MS2; CE,10.82,[9.49:12.06],1,0.78,0.571
+no MS2: Flunixin meglumin,9.11,[7.44:10.81],0,0.329,0.42
+"low score: NCGC00347620-02 C22H34O4 7-Oxabicyclo[4.1.0]hept-3-ene-2,5-diol, 4-(hydroxymethyl)-1-[(1,4,4a,5,6,7,8,8a-octahydro-2,5,5,8a-tetramethyl-1-naphthalenyl)methyl]-",9.29,[7.56:11.02],0,0.176,0.362
+low score: NCGC00381166-01 C15H26O3 ,8.54,[7.44:9.82],0,0.187,0.415
+"no MS2: (3S)-3-(2-methylpyrimidin-5-yl)-9-(5,6,7,8-tetrahydro-1,8-naphthyridin-2-yl)nonanoic acid",9.58,[7.83:11.33],0,0.242,0.377
+no MS2: Eltrombopag (SB-497115-GR),9.59,[7.85:11.33],0,0.24,0.376
+no MS2: Vibriobactin,9.59,[7.86:11.32],0,0.048,0.314
+no MS2: NCGC00347420-02 C39H65NO12 15-Hydroxyspirosolan-3-yl 2-O-(6-deoxy-alpha-L-mannopyranosyl)-beta-D-glucopyranoside,9.58,[7.85:11.31],0,0.048,0.314
+no MS2: PF1140 120159,10.62,[9.59:11.65],1,0.875,0.659
+"no MS2: NCGC00385528-01 C29H40O10 7aH,13aH-Cyclopenta[7,8]phenanthro[2,3-b]pyrano[3,2-e][1,4]dioxin-13a-carboxaldehyde, 1-(2,5-dihydro-5-oxo-3-furanyl)eicosahydro-1,3a,11,11a-tetrahydroxy-9,15a-dimethyl-, (1S,3aS,3bR,6aR,9R,11R,11aS,12aR,13aR,15aS)-",9.48,[7.74:11.22],0,0.109,0.335
+"no MS2: NCGC00385378-01 C31H42O10 7aH,13aH-Cyclopenta[7,8]phenanthro[2,3-b]pyrano[3,2-e][1,4]dioxin-13a-carboxaldehyde, 11-(acetyloxy)-1-(2,5-dihydro-5-oxo-3-furanyl)eicosahydro-3a,11a-dihydroxy-9,15a-dimethyl-, (1R,3aS,3bR,6aR,7aS,9R,11S,11aS,12aR,13aR,15aR)-",9.7,[7.96:11.44],0,0.2,0.361
+"no MS2: NCGC00384740-01 C21H34O9 2(1H)-Azulenone, 6-(beta-D-glucopyranosyloxy)-4,5,6,7,8,8a-hexahydro-5-hydroxy-5-(1-hydroxy-1-methylethyl)-3,8-dimethyl-",9.53,[7.79:11.27],0,0.069,0.322
+no MS2: Corosolic acid; PlaSMA ID-2570,9.39,[7.65:11.13],0,0.162,0.355
+"no MS2: NCGC00384809-01!5-[5-hydroxy-3-(hydroxymethyl)pentyl]-8a-(hydroxymethyl)-5,6-dimethyl-3,4,4a,6,7,8-hexahydronaphthalene-1-carboxylic acid",9.41,[7.67:11.15],0,0.117,0.34
+"no MS2: NCGC00169011-03 C23H31NO4 Spiro[2H-furo[2,3-e]isoindole-2,1'(2'H)-naphthalen]-6(3H)-one, 3',4',4'a,5',6',7,7',8,8',8'a-decahydro-4,6'-dihydroxy-2',5',5',8'a-tetramethyl-, (2R,2'R,6'R,8a'S)-",9.32,[7.59:11.05],0,0.172,0.36
+no MS2: Lagochilin major,9.41,[7.67:11.15],0,0.117,0.34
+no MS2: Mairine B,7.77,[6.26:9.28],1,0.716,0.523
+"no MS2: 2,6-Dimethylpyridine",3.73,[3.58:3.88],1,0.975,0.906
+"low score: NCGC00381317-01!(E)-1-[2-(hydroxymethyl)pyrrolidin-1-yl]-2-methyldec-8-ene-1,3-dione",10.62,[9.41:11.83],1,0.811,0.607
+no MS2: Leupeptin Pr-LL,9.5,[7.76:11.24],0,0.085,0.327
+"no MS2: NCGC00380308-01!methyl 2-ethyl-4-[(3R,4R,5S)-5-hydroxy-4,5-dimethyl-2-oxooxolan-3-yl]-2-methyl-3-oxobutanoate",10.28,[9.03:11.53],1,0.807,0.605
+no MS2: Simvastatin M+NH4,10.33,[8.84:11.82],0,0.415,0.434
+low score: Amorolfine Hydrochloride,9.37,[8.96:9.78],1,0.991,0.833
+"no MS2: NCGC00385536-01!(2E,4E)-N-(1,3-dihydroxy-3-methylpentan-2-yl)-2-methylhexa-2,4-dienamide",8.32,[7.44:9.27],0,0.19,0.451
+"no MS2: NCGC00169628-03 C23H36O6 1-Naphthaleneheptanoic acid, 1,2,6,7,8,8a-hexahydro-beta,delta-dihydroxy-2-methyl-8-(2-methyl-1-oxobutoxy)-, (betaR,deltaR,1S,2S,8S,8aR)-",9.33,[7.6:11.06],0,0.171,0.359
+"no MS2: NCGC00381139-01!6-benzyl-3-butan-2-yl-9-(7-hydroxy-6-oxooctyl)-1,4,7,10-tetrazabicyclo[10.4.0]hexadecane-2,5,8,11-tetrone",9.48,[7.74:11.22],0,0.109,0.335
+"no MS2: NCGC00386062-01!(3S,6R,12S)-6-benzyl-3-butan-2-yl-9-(6,7-dihydroxyoctyl)-1,4,7,10-tetrazabicyclo[10.4.0]hexadecane-2,5,8,11-tetrone",9.51,[7.77:11.25],0,0.084,0.327
+no MS2: Dereplicator Identification - E'Surugamide B',9.61,[7.88:11.34],0,0.041,0.311
+"low score: NCGC00347722-02!(2Z)-2-[(E)-6-(hydroxymethyl)-2,4,8,10-tetramethyldodec-2-enylidene]-4-methylpentanedioic acid",9.31,[7.58:11.04],0,0.173,0.36
+"no MS2: NCGC00380806-01!6-(diaminomethylideneamino)-2-[[(4E,6E,12E,14E)-3-hydroxy-2-(hydroxymethyl)-8,10,16-trimethyloctadeca-4,6,12,14-tetraenoyl]amino]hexanoic acid [IIN-based on: CCMSLIB00000847271]",9.56,[7.82:11.3],0,0.057,0.317
+low score: beta-Sitosterol; LC-APPI-QQ; MS2; CE,10.35,[8.86:11.84],0,0.426,0.438
+no MS2: Fucostanol 70.4%,10.36,[8.87:11.85],0,0.435,0.44
+no MS2: NCGC00180835-03!2-[5-[2-[2-[5-(2-hydroxybutyl)oxolan-2-yl]propanoyloxy]propyl]oxolan-2-yl]propanoic acid,9.4,[7.66:11.14],0,0.281,0.394
+"no MS2: NCGC00386045-01 C21H28O6 2-Butenoic acid, 2-methyl-, (2Z)-2-[[1-(3,4-dimethoxyphenyl)propoxy]carbonyl]-2-buten-1-yl ester, (2E)-",10.45,[9.87:11.08],1,0.979,0.776
+no MS2: Meptazinol HCl,9.59,[8.33:10.85],1,0.843,0.615
+no MS2: Denticulatin B,9.43,[7.69:11.17],0,0.274,0.39
+"low score: NCGC00380867-01 C27H46O9 9,12,15-Octadecatrienoic acid, 3-(hexopyranosyloxy)-2-hydroxypropyl ester, (9Z,12Z,15Z)-",9.5,[7.76:11.24],0,0.085,0.327
+"low score: NCGC00381029-01!1-(3-ethyl-2,4-dihydroxy-6-methoxyphenyl)butan-1-one",8.36,[7.44:9.53],0,0.377,0.497
+low score: Andrachcinidine,8.15,[7.44:8.99],0,0.411,0.546
+no MS2: DL-Coniine; PlaSMA ID-80,5.85,[4.53:7.17],1,0.863,0.631
+BIS(2-ETHYLHEXYL)PHTHALATE,11.69,[11.4:11.98],1,0.924,0.815
+no MS2: NCGC00380352-01!5-butyl-4-hydroxy-3-methyl-6-(3-methylbut-2-enyl)-1H-pyridin-2-one,9.03,[7.44:10.7],0,0.344,0.429
+epsilon-Decalactone,5.83,[5.6:6.06],1,0.958,0.897
+low score: Eicosanoids LXB4 C20H32O5,9.41,[7.67:11.15],0,0.117,0.34
+no MS2: NCGC00169702-02!(5R)-5-hydroxy-1-(4-hydroxy-3-methoxyphenyl)decan-3-one,9.21,[7.49:10.93],0,0.312,0.41
+"no MS2: NCGC00380799-01!5-[5-[5-(3,5-dihydroxydecanoyloxy)-3-hydroxydecanoyl]oxy-3-hydroxydecanoyl]oxy-3-hydroxydecanoic acid",9.56,[7.82:11.3],0,0.065,0.32
+low score: delta-Decalactone; LC-ESI-QTOF; MS2; [M+H]+; CE,5.83,[5.6:6.06],1,0.958,0.897
+"no MS2: NCGC00380345-01!(2S,8R)-8-hydroxy-2-[(1S)-1-hydroxyheptyl]-2,3,4,6,7,8-hexahydrochromen-5-one",9.14,[7.44:10.84],0,0.324,0.417
+"no MS2: NCGC00381188-01!(E,2S,3R,4R,5S)-2-acetamido-3,4,5,14-tetrahydroxyicos-6-enoic acid",9.53,[7.79:11.27],0,0.069,0.322
+"low score: cis-9,10-methylene-hexadecanoic acid",10.26,[9:11.52],1,0.805,0.604
+no MS2: Tricaprylin (C8:0),11.69,[11.41:11.97],1,0.599,0.713
+"no MS2: NCGC00380745-01!(5E)-2-heptyl-3,4,7-trihydroxy-2,3,4,7,8,9-hexahydrooxecin-10-one",9.25,[7.53:10.97],0,0.181,0.365
+no MS2: NCGC00381425-01!8-hydroxy-8-(3-octyloxiran-2-yl)octanoic acid,9.2,[7.49:10.91],0,0.313,0.411
+Oleamide,11.11,[9.77:12.06],1,0.759,0.554
+no MS2: MLS002153155-01!N-Oleoylethanolamine111-58-0,9.39,[7.65:11.13],0,0.282,0.394
+no MS2: Glyceryl trioleate,11.67,[11.39:11.95],0,0.169,0.568
+no MS2: Glyceryl tridecanoate,11.68,[11.4:11.96],0,0.394,0.644
+no MS2: NCGC00385599-01!1-methyl-2-nonylquinolin-4-one [IIN-based on: CCMSLIB00000845108],9.75,[9.16:10.34],1,0.982,0.78
+"no MS2: NCGC00381440-01!(2S,3S)-3-decyl-2-hydroxy-2-(3-methoxy-3-oxopropyl)butanedioic acid",9.26,[7.54:10.98],0,0.18,0.364
+"low score: NCGC00381435-01!13-dodecan-2-yl-6-(1-hydroxyethyl)-3-(hydroxymethyl)-12-methyl-9-propan-2-yl-1-oxa-4,7,10-triazacyclotridecane-2,5,8,11-tetrone [IIN-based on: CCMSLIB00000848775]",9.52,[7.78:11.26],0,0.083,0.326
+low score: N-Dodecanoyl-N-methylglycine,10.61,[9.48:11.74],1,0.839,0.63
+no MS2: N-dodecanoyl-S-homoserine lactone,10.91,[9.5:12.06],1,0.696,0.529
+CocamidopropylBetaine,10.91,[9.5:12.06],1,0.697,0.529
+low score: LAUROYLCARNITINE,8.61,[7.9:9.32],1,0.978,0.739
+no MS2: Glyceryl tridodecanoate,11.67,[11.39:11.95],0,0.294,0.61
+no MS2: Lauryl diethanolamide,9.22,[7.5:10.94],0,0.311,0.41
+no MS2: Melophlin B/C/G/K/L/N/O,10.46,[9.87:11.1],1,0.971,0.773
+no MS2: NCGC00347386-02!1-methyl-2-undecylquinolin-4-one [IIN-based on: CCMSLIB00000847478],10.46,[9.33:11.43],1,0.945,0.659
+low score: Roccellic Acid major,9.11,[7.44:10.8],0,0.33,0.421
+no MS2: Lactosyl(?) C12 Ceramide,9.45,[7.71:11.19],0,0.154,0.35
+no MS2: C17 Sphingosine,9.23,[7.51:10.95],0,0.183,0.367
+low score: Myristamidopropyl betaine,9.43,[7.69:11.17],0,0.276,0.391
+no MS2: Glyceryl trimyristate,11.67,[11.39:11.95],0,0.235,0.591
+no MS2: C18 Sphingosine,9.25,[7.53:10.97],0,0.181,0.365
+no MS2: pentadecane,7.26,[6.79:7.83],1,0.974,0.799
+low score: C17-Sphinganine,9.23,[7.51:10.95],0,0.183,0.367
+no MS2: 1-(hexadecanoyloxy)-3-hydroxypropan-2-yl-octadec-9-enoate,10.57,[8.98:12.06],0,0.241,0.37
+no MS2: Tripalmitin,11.67,[11.39:11.95],0,0.195,0.577
+no MS2: 1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine; MALDI-TOFTOF; MS2; CE,11.67,[11.39:11.95],0,0.23,0.589
+no MS2: 2-acetoxy-6-pentadecylbenzoic acid,10.37,[8.88:11.86],0,0.44,0.442
+low score: 2-methoxy-4-pentadecylbenzoic acid,10.44,[8.96:11.92],0,0.489,0.458
+no MS2: Agaric Acid major,9.42,[7.68:11.16],0,0.115,0.339
+no MS2: NCGC00380102-01!3-hexadecyl-4-methoxy-5-methyloxolan-2-one,10.75,[9.59:11.66],1,0.981,0.672
+no MS2: Stearoyl Ethanolamide,9.4,[7.66:11.14],0,0.281,0.394
+no MS2: Ceramide (d18:1/18:0),9.52,[7.78:11.26],0,0.142,0.345
+no MS2: C18 Dihydroceramide (d18:0/18:0),9.52,[7.78:11.26],0,0.141,0.345
+no MS2: 3-octadecanoyloxy-4-(trimethylazaniumyl)butanoate,11.7,[11.42:11.98],1,0.914,0.815
+Stearamide,11.05,[9.68:12.06],1,0.742,0.547
+low score: Arachidoyl Ethanolamide,9.48,[7.74:11.22],0,0.266,0.386
+low score: NCGC00386025-01!hexadecyl (E)-3-(4-hydroxy-3-methoxyphenyl)prop-2-enoate,10.3,[8.81:11.79],0,0.39,0.426
+no MS2: Thonizide; LC-ESI-QTOF; MS2; CE,11.68,[11.4:11.96],0,0.374,0.637
+"N,N-Dimethyltetradecylamine",7.38,[7.2:7.56],1,0.983,0.9
+"no MS2: N,N-Dimethyltetradecylamine-N-oxide",7.43,[7.28:7.58],1,0.975,0.912
+no MS2: Tridemorph,8.84,[7.9:9.78],1,0.973,0.705
+no MS2: Roccellaric acid,10.76,[9.31:12.06],1,0.642,0.509
+no MS2: Lichesterinic acid,10.64,[9.17:12.06],0,0.592,0.492
+"no MS2: N,N-Dimethyldodecylamine N-oxide",6.77,[6.71:6.82],1,0.985,0.943
+"N,N-Dimethyldodecylamine",6.91,[6.65:7.22],1,0.99,0.878
+low score: Lauryldiethanolamine,9.03,[7.44:10.7],0,0.343,0.429
+no MS2: 1-Dodecyl-2-pyrrolidinone,8.52,[8.36:8.77],1,0.99,0.873
+no MS2: N-Methyldodecylamine,8.64,[7.4:9.88],1,0.747,0.57
+"no MS2: 3,6,9,12-Tetraoxatetracosan-1-ol",10.58,[9.11:12.05],0,0.567,0.484
+no MS2: Acaranoic acid,11.12,[9.82:12.06],1,0.806,0.575
+no MS2: NCGC00169514-02!(5R)-5-hydroxy-1-(4-hydroxy-3-methoxyphenyl)tetradecan-3-one [IIN-based on: CCMSLIB00000848859],9.43,[7.69:11.17],0,0.275,0.391
+low score: Octylamine,6.07,[4.71:7.43],1,0.868,0.621
+no MS2: N-Octyl-2-pyrrolidone,7.44,[7.29:7.59],1,0.964,0.909
+no MS2: Dihydoroferuloyl Octylamine; PlaSMA ID-1639,9.25,[7.53:10.97],0,0.18,0.365
+"no MS2: NCGC00384922-01!(2R,3R,4S,5S,6R)-2-octoxy-6-[[(2S,3R,4S,5R)-3,4,5-trihydroxyoxan-2-yl]oxymethyl]oxane-3,4,5-triol",9.52,[7.78:11.26],0,0.069,0.322
+no MS2: Triolein; MALDI-TOFTOF; MS2; CE,11.67,[11.39:11.95],0,0.169,0.568
+no MS2: Hexylamine; LC-ESI-QTOF; MS2; CE,4.8,[4.2:5.18],1,0.944,0.778
+no MS2: Capecitabine,9.27,[7.54:11],0,0.179,0.364
+"no MS2: NCGC00169585-02!(2S,3S,4S)-3,4-dihydroxy-6-methoxy-3-methyl-7-methylidene-2-pentyl-2,4-dihydropyrano[2,3-c]pyrrol-5-one [IIN-based on: CCMSLIB00000847050]",9.15,[7.45:10.85],0,0.323,0.417
+Di-n-butyl phthalate,8.84,[8.64:9.04],1,0.967,0.91
+Benzyl butyl phthalate,9.83,[8.93:10.57],1,0.973,0.73
+no MS2: Bis(2-butoxyethyl) decanedioate,11.69,[11.41:11.97],1,0.917,0.815
+Tri(butoxyethyl) phosphate,11.73,[11.46:12],1,0.909,0.819
+Prosulfocarb,8.67,[8.36:9.17],1,0.988,0.808
+7-(Ethylamino)-4-methylcoumarin,9.6,[8.35:10.85],1,0.844,0.616
+no MS2: Kalkitoxin,10.42,[9.87:11.04],1,0.98,0.78
+L-Prolyl-L-isoleucine,8.33,[7.44:9.28],0,0.189,0.45
+"no MS2: NCGC00380314-01 C22H27NO7 3,5,7,9-Undecatetraenoic acid, 2-ethylidene-11-[4-hydroxy-4-(2-hydroxyethyl)-2-oxo-6-oxa-3-azabicyclo[3.1.0]hex-1-yl]-4,10-dimethyl-11-oxo-, methyl ester, (2Z,3E,5E,7E,9E)-",9.34,[7.61:11.07],0,0.17,0.359
+"no MS2: NCGC00380383-01!methyl 4,10-diacetyloxy-5,9-dihydroxy-1,4a-dimethyl-7-propan-2-yl-2,3,4,9,10,10a-hexahydrophenanthrene-1-carboxylate",9.54,[7.79:11.29],0,0.253,0.381
+"no MS2: NCGC00347615-02!methyl 3,5-dichloro-2-hydroxy-6-(4-hydroxy-2-methoxy-6-methoxycarbonylphenoxy)-4-methylbenzoate",9.46,[7.72:11.2],0,0.269,0.388
+low score: NCGC00381149-01!methyl 2-hydroxy-6-(2-hydroxy-4-methoxy-6-methoxycarbonylphenoxy)-4-methylbenzoate,9.37,[7.63:11.11],0,0.286,0.396
+no MS2: NCGC00384947-01!2-hydroxy-6-(2-hydroxy-4-methoxy-6-methoxycarbonylphenoxy)-4-methylbenzoic acid,9.28,[7.55:11.01],0,0.177,0.363
+"no MS2: NCGC00180855-02 C23H36O4 2-Pentenoic acid, 3-[(acetyloxy)methyl]-5-[(1R,4aR,8aR)-decahydro-5,5,8a-trimethyl-2-methylene-1-naphthalenyl]-, methyl ester, (2Z)-",10.32,[9.87:10.83],1,0.986,0.81
+no MS2: NCGC00380331-01!methyl 11-hydroxy-10-methyl-4-oxododecanoate,9.54,[8.25:10.83],1,0.839,0.607
+no MS2: Methyl Deoxycholate 62.7%,9.47,[7.73:11.21],0,0.267,0.387
+"no MS2: Dereplicator Identification - (3R)-9'-cis-1'-Methoxy-3',4'-didehydro-1",9.73,[8:11.46],0,0.186,0.357
+no MS2: 19S-Methoxytubotaiwine; PlaSMA ID-1982,9.88,[9.03:10.57],1,0.981,0.737
+"no MS2: NCGC00380517-01 C25H36O8 Phenanthro[3,2-b]furan-9(1H)-one, 3,5-bis(acetyloxy)-2,3,4,4a,5,6,6a,7,10a,11,11a,11b-dodecahydro-6-hydroxy-10a-methoxy-4,4,7,11b-tetramethyl-",10.3,[8.81:11.79],0,0.392,0.427
+"low score: NCGC00380176-01 C25H32O8 5a-Hydroxy-9-(hydroxymethyl)-13-methoxy-5,5,7a,14b-tetramethyl-1,2,5a,6,7,7a,10,14,14a,14b-decahydro-5H-furo[3,4-i]oxepino[4,3-a]xanthene-3,12-dione",9.65,[7.91:11.39],0,0.223,0.37
+"no MS2: NCGC00347824-02!6-[(2E,6E)-4,5-dihydroxy-4,6-dimethyl-7-(1,2,4-trimethyl-3,6-dioxabicyclo[3.1.0]hexan-4-yl)hepta-2,6-dien-2-yl]-4-methoxy-5-methylpyran-2-one",9.53,[7.78:11.28],0,0.254,0.381
+"no MS2: NCGC00381434-01 C20H22O4 2-Methoxy-4-{(2S,3R)-7-methoxy-3-methyl-5-[(1E)-1-propen-1-yl]-2,3-dihydro-1-benzofuran-2-yl}phenol",10.7,[9.24:12.06],1,0.621,0.502
+"no MS2: NCGC00380818-01 C17H15ClO6 7-Chloro-2',4,6-trimethoxy-6'-methyl-3H,4'H-spiro[1-benzofuran-2,1'-cyclohexa[2,5]diene]-3,4'-dione",10.36,[9.87:10.95],1,0.982,0.789
+"no MS2: NCGC00380262-01!2,3,5,7-tetramethoxy-9,10-dihydrophenanthrene",9.85,[8.95:10.75],1,0.974,0.723
+low score: Dehydrocorydaline; PlaSMA ID-2039,10.94,[9.89:11.66],1,0.981,0.696
+no MS2: Isofraxidin; PlaSMA ID-841,9.42,[8.08:10.76],1,0.834,0.595
+no MS2: Laudanosine; PlaSMA ID-2002,10.65,[9.41:11.66],1,0.96,0.647
+no MS2: Reserpic acid; PlaSMA ID-2195,9.38,[7.64:11.12],0,0.164,0.356
+no MS2: NCGC00385876-01 C18H21NO5 Tazettine,10.82,[9.39:12.06],1,0.665,0.517
+"no MS2: NCGC00381408-01!4-hydroxy-1-methoxy-6,6,9a-trimethyl-4,5,5a,7,8,9-hexahydro-1H-benzo[e][2]benzofuran-3-one",10.61,[9.43:11.79],1,0.818,0.613
+"no MS2: NCGC00347672-02!N-[4,5-dihydroxy-2-[[4-[hydroxy(phenyl)methyl]-5-oxo-3-phenyl-2H-furan-2-yl]oxy]-6-(methoxymethyl)oxan-3-yl]acetamide [IIN-based on: CCMSLIB00000848988]",9.48,[7.74:11.22],0,0.109,0.335
+no MS2: Hexa(methoxymethyl)melamine,11.69,[11.41:11.97],1,0.639,0.726
+no MS2: 8-methanesulfinyloctan-1-amine; PlaSMA ID-577,8.52,[7.64:9.65],1,0.894,0.621
+low score: Thioridazine; LC-ESI-QTOF; MS2; CE,11.69,[11.42:11.96],1,0.7,0.747
+no MS2: 7-Methylsulfenylheptyl isothiocyanate; PlaSMA ID-678,5.76,[5.55:6.03],1,0.972,0.874
+no MS2: (R)-4-((3S,2.76,[1.92:3.6],1,0.713,0.674
+no MS2: methyl (R)-4-((3R,5.3,[2.54:8.06],0,0.323,0.336
+no MS2: Cyclocrassostreaxanthin A; FAB-EBEB; MS2; m/z,10.57,[8.98:12.06],0,0.23,0.367
+no MS2: Valine conjugated cholic acid,9.51,[7.77:11.25],0,0.085,0.327
+no MS2: Leucine conjugated chenodeoxycholic acid,9.47,[7.73:11.21],0,0.111,0.336
+low score: Histidine conjugated chenodeoxycholic acid,9.52,[7.78:11.26],0,0.083,0.326
+no MS2: Serine conjugated chenodeoxycholic acid,9.5,[7.76:11.24],0,0.085,0.327
+low score: (4R)-4-((3R,4.57,[1.9:7.31],0,0.026,0.236
+no MS2: (3S,0,[-0.68:0.68],1,0.86,0.728
+17alpha-Methyltestosterone,11.43,[10.26:12.06],1,0.855,0.601
+"4-Androstene-3,17-dione",9.16,[8.67:9.65],1,0.994,0.831
+17-beta-Estradiol,9.15,[7.45:10.85],0,0.322,0.416
+low score: Benzalkonium chloride (C12),9.42,[8.73:10.02],1,0.998,0.779
+low score: Isorenieratene; FAB-EBEB; MS2; m/z,11.68,[11.4:11.96],0,0.337,0.625
+low score: Ipomoeaxanthin C; FAB-EBEB; MS2; m/z,9.72,[7.98:11.46],0,0.192,0.359
+low score: Rhodoxanthin; FAB-EBEB; MS2; m/z,11.67,[11.39:11.95],0,0.316,0.618
+no MS2: Tomatidine HCl,9.51,[7.76:11.26],0,0.259,0.383
+no MS2: Triclabendazole,10.4,[8.91:11.89],0,0.463,0.45
+no MS2: Bicalutamide,9.32,[7.59:11.05],0,0.294,0.401
+no MS2: 7-methanesulfinylheptanenitrile; PlaSMA ID-409,7.26,[6.79:7.84],1,0.98,0.797
+no MS2: Azaserine,5.7,[4.34:7.06],1,0.849,0.622
+no MS2: dioctylamine,9.49,[8.17:10.81],1,0.836,0.601
+no MS2: Mepirizole,7.93,[7.66:8.2],1,0.994,0.896
+no MS2: Koumine,9.58,[8.78:10.35],1,0.986,0.761
+Erucamide,10.43,[8.94:11.92],0,0.485,0.457
+low score: NCGC00380411-01!7-(2-aminophenyl)heptanoic acid,8.36,[7.44:9.53],0,0.377,0.497
+no MS2: Kanamycin A,9.61,[7.88:11.34],0,0.034,0.309
+no MS2: Gamma-Aminobutyric Acid major,7.17,[5.91:8.08],0,0.541,0.577
+no MS2: 11-aminoundecanoicacid,8.09,[7.44:8.88],0,0.457,0.571
+"no MS2: 4,4'-Methylene bis(o-chloroaniline)",9.15,[7.45:10.85],0,0.323,0.417
+"no MS2: 3',5'-Cyclic AMP",9.33,[7.6:11.06],0,0.172,0.36
+"low score: 6,7-dimethoxy-2,2-dimethyl-2h-1-benzopyran",7.25,[6.79:7.85],1,0.983,0.794
+no MS2: Cycloveratrylene,11.68,[11.4:11.96],1,0.512,0.683
+no MS2: abloxime / IC202C,9.54,[7.8:11.28],0,0.067,0.321
+no MS2: 2-heptadecanone,8.52,[8.43:8.61],1,0.988,0.937
+no MS2: Neohesperidin Dihydrochalcone,9.59,[7.86:11.32],0,0.043,0.312
+no MS2: E-4031,10.3,[8.81:11.79],0,0.388,0.426
+"no MS2: 6'-methoxy-4,2',4',beta-tetrahydroxy-alpha,beta-dihydrochalcone",9.4,[7.66:11.14],0,0.118,0.34
+"low score: ((6R,6aR,13R,13aS)-2,3,4,6,6a,7,8,9,10,12,13,13a-dodecahydro-1H-6,13-methanodipyrido[1,2-a:3',2'-e]azocin-1-yl)(1-isopropyl-1H-indol-6-yl)methanone",11.69,[11.41:11.97],1,0.599,0.713
+no MS2: Hydroxypyridin + C5H10NO or 6-Hydroxypseudooxynicotine (not validated); PlaSMA ID-605,8.12,[7.44:8.93],0,0.44,0.562
+"no MS2: Chalcone base + 3O, 1MeO, 1Prenyl; PlaSMA ID-1979",9.33,[7.6:11.06],0,0.171,0.359
+"no MS2: 4'-hydroxy-2',4,6'-trimethoxychalcone",10.77,[9.33:12.06],1,0.647,0.511
+no MS2: 10-Shogaol,10.57,[9.1:12.04],0,0.559,0.481
+no MS2: (dehydrohexadecanoyl)glycine - Commendamide analogue,9.31,[7.58:11.04],0,0.295,0.401
+no MS2: 3-[(3-OH-myristoyl)oxy]decanoyl glutamine  from Cohen et al Nature 549 48 53 2017,9.49,[7.75:11.23],0,0.107,0.334
+low score: 10-Gingerol,9.43,[7.69:11.17],0,0.275,0.391
+no MS2: Myristoyl Ethanolamide,9.16,[7.45:10.87],0,0.32,0.415
+no MS2: phenylethylamide 359,10.35,[8.86:11.84],0,0.432,0.44
+no MS2: allantoin,9.38,[7.65:11.11],0,0.119,0.341
+no MS2: Otenzepad,10.27,[8.78:11.76],0,0.364,0.418
+"no MS2: (R)-1-(4-benzylpiperazin-1-yl)-4-((3R,5R,8R,9S,10S,12S,13R,14S,17R)-3,12-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentan-1-one",9.71,[7.97:11.45],0,0.198,0.361
+no MS2: MMV146306,9.59,[7.84:11.34],0,0.242,0.377
+no MS2: MMV675969,9.44,[7.7:11.18],0,0.273,0.39
+"no MS2: N-(2-(((1S,9aR)-octahydro-1H-quinolizin-1-yl)methyl)-3-oxo-1,2,3,4-tetrahydrobenzo[4,5]imidazo[1,2-a]pyrazin-8-yl)propionamide",10.2,[8.71:11.69],0,0.29,0.394
+"no MS2: N-(3,4-dimethoxyphenethyl)-1H-indole-3-carboxamide",9.5,[7.75:11.25],0,0.261,0.385
+low score: ilicic acid,8.35,[7.44:9.51],0,0.382,0.5
+no MS2: Dehydrotumulosic acid,9.41,[7.67:11.15],0,0.16,0.353
+no MS2: Roccellic acid,9.11,[7.44:10.8],0,0.33,0.421
+no MS2: Glutamylleucine; PlaSMA ID-1148,9.38,[7.65:11.11],0,0.119,0.341
+no MS2: Valine conjugated chenodeoxycholic acid,9.45,[7.71:11.19],0,0.113,0.337
+no MS2: Phenylalanylvaline; PlaSMA ID-1177,9.22,[7.5:10.94],0,0.184,0.367
+no MS2: PyroglutamylIsoleucine (isomer of 1005); PlaSMA ID-1006,9.21,[7.49:10.93],0,0.185,0.368
+no MS2: N-Fructosyl tyrosine; PlaSMA ID-1892,9.55,[7.81:11.29],0,0.058,0.318
+low score: Dihydroxyoctadecadienoic acid,9.16,[7.45:10.87],0,0.321,0.415
+no MS2: daniellic acid,11.14,[9.84:12.06],1,0.809,0.576
+"low score: 9-hydroxy-7-(2-hydroxypropan-2-yl)-1,4a-dimethyl-2,3,4,9,10,10a-hexahydrophenanthrene-1-carboxylic acid",9.26,[7.54:10.98],0,0.179,0.364
+low score: Cephalosporin C,9.43,[7.69:11.17],0,0.115,0.338
+"5-[5-hydroxy-3-(hydroxymethyl)pentyl]-8a-(hydroxymethyl)-5,6-dimethyl-3,4,4a,6,7,8-hexahydronaphthalene-1-carboxylic acid",9.41,[7.67:11.15],0,0.117,0.34
+low score: N-Methylproline,4.98,[4.15:5.81],1,0.857,0.729
+no MS2: Ginkgolic Acid C17-1,9.48,[7.74:11.22],0,0.265,0.386
+no MS2: Ginkgolic Acid C13-0,9.31,[7.58:11.04],0,0.296,0.401
+no MS2: Acitretin,10.73,[9.28:12.06],1,0.63,0.505
+"low score: (2E,4E,8E)-7,13-dihydroxy-4,8,12-trimethyltetradeca-2,4,8-trienoic acid",9.22,[7.5:10.94],0,0.184,0.367
+no MS2: Caffeic acid; PlaSMA ID-494,8.32,[7.44:9.27],0,0.191,0.452
+"5-(1,2,4a,5-tetramethyl-7-oxo-3,4,8,8a-tetrahydro-2H-naphthalen-1-yl)-3-methylpentanoic acid",11.49,[10.37:12.06],1,0.875,0.611
+"low score: 5-[1,2,4a-trimethyl-5-(3-methylbutanoyloxymethyl)-2,3,4,7,8,8a-hexahydronaphthalen-1-yl]-3-methylpentanoic acid",10.44,[8.96:11.92],0,0.488,0.458
+no MS2: Isoleucylaspartate; PlaSMA ID-1035,8.63,[7.44:9.95],0,0.119,0.384
+low score: FA 12:3+2O; PlaSMA ID-879,8.17,[7.44:9.02],0,0.399,0.54
+no MS2: Deoxycholic acid,9.32,[7.59:11.05],0,0.172,0.36
+no MS2: tetradec-5-ynoic acid,9.21,[8.26:10.16],1,0.821,0.632
+no MS2: Arachidonic acid (not validated); PlaSMA ID-1591,11.49,[10.36:12.06],1,0.873,0.61
+no MS2: FA 18:3+1O; PlaSMA ID-1515,11.03,[9.7:12.06],1,0.795,0.571
+no MS2: FA 18:4+1O; PlaSMA ID-1476,10.9,[9.56:12.06],1,0.783,0.569
+low score: Ricinoleic acid,9.17,[7.46:10.88],0,0.319,0.414
+no MS2: (9Z)-9-octadecenoic acid,10.61,[9.43:11.79],1,0.821,0.615
+no MS2: hexadecanedioic acid,9.1,[7.44:10.79],0,0.331,0.421
+no MS2: stearic acid,10.62,[9.4:11.84],1,0.807,0.604
+no MS2: Octadecanedioic acid,9.24,[7.52:10.96],0,0.307,0.407
+no MS2: henicosanoic acid,10.78,[9.34:12.06],1,0.652,0.513
+no MS2: 6-Hydroxycaproic acid,7.6,[7.01:8.19],1,0.737,0.708
+"no MS2: 2-((4R)-4-((3R,5R,8R,9S,12S,14S,17R)-3,12-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)acetic acid hydrate",9.45,[7.71:11.19],0,0.113,0.337
+no MS2: Rosmarinic acid (not validated); PlaSMA ID-309,9.48,[7.74:11.22],0,0.087,0.328
+"no MS2: Alisol A,24-acetate",9.44,[7.7:11.18],0,0.155,0.351
+no MS2: Docetaxel,9.55,[7.81:11.29],0,0.078,0.324
+no MS2: Hemslecin A,9.47,[7.73:11.21],0,0.11,0.336
+low score: Alisol C Monoacetate,10.21,[8.72:11.7],0,0.302,0.398
+low score: Triacylglycerol 16:1-18:1-18:1,11.67,[11.39:11.95],0,0.177,0.571
+no MS2: Hirsutine,10.35,[8.86:11.84],0,0.429,0.439
+"no MS2: (3aS,3a1S,10bR)-3a-ethyl-5-(methoxycarbonyl)-13-methyl-1,2,3,3a,3a1,4,6,11,12,13-decahydroindolizino[8,1-cd]carbazol-13-ium chloride",9.75,[9.16:10.34],1,0.982,0.78
+no MS2: reserpinine,10.32,[8.83:11.81],0,0.404,0.431
+"no MS2: (3aR,3a1S,5S,5aS,10bS)-methyl 6-acetyl-3a-ethyl-2,3,3a,3a1,4,5,5a,6,11,12-decahydro-1H-indolizino[8,1-cd]carbazole-5-carboxylate",11.69,[11.4:11.98],1,0.925,0.815
+low score: Methyl cinnamate; PlaSMA ID-317,5.19,[4.89:5.49],1,0.977,0.901
+no MS2: 8-Acetylharpagide,9.52,[7.78:11.26],0,0.069,0.322
+"no MS2: (S)-3-(3,4-dihydro-2H-benzo[b][1,4]dioxepin-7-yl)-2-methyl-4-oxo-4H-chromen-7-yl 2-((tert-butoxycarbonyl)amino)-3-(4-((tert-butoxycarbonyl)oxy)phenyl)propanoate",11.38,[10.54:12.06],0,0.199,0.456
+low score: Maoecrystal A,10.48,[9:11.96],0,0.515,0.467
+no MS2: Lucidenic acid D,10.21,[8.72:11.7],0,0.298,0.397
+"no MS2: 5-(4-acetyloxy-3-hydroxy-2,5,5,8a-tetramethyl-3,4,4a,6,7,8-hexahydronaphthalen-1-yl)-3-methylpentanoic acid",9.37,[7.63:11.11],0,0.286,0.396
+no MS2: 10-deacetylbaccatin III,9.47,[7.73:11.21],0,0.11,0.336
+no MS2: lapidin,11.13,[9.8:12.06],1,0.768,0.558
+no MS2: ferolin,9.4,[7.66:11.14],0,0.28,0.393
+no MS2: Incensole acetate,9.75,[9.16:10.34],1,0.982,0.78
+"no MS2: (4R)-5',6a,8a,9-tetramethyldocosahydrospiro[naphtho[2',1':4,5]indeno[2,1-b]furan-10,2'-pyran]-4-yl nonanoate",11.68,[11.4:11.96],0,0.389,0.642
+"no MS2: (5S,10S,13S)-17-acetyl-10,13-dimethyl-2,3,4,5,6,7,8,9,10,11,12,13,14,15-tetradecahydro-1H-cyclopenta[a]phenanthren-3-yl decanoate",11.68,[11.4:11.96],1,0.507,0.682
+no MS2: alpha-TOCHOPHERYL ACETATE,11.68,[11.4:11.96],1,0.534,0.691
+Avocadyne Acetate,9.18,[7.47:10.89],0,0.317,0.413
+low score: Glyceryl linolenate,9.37,[7.63:11.11],0,0.286,0.396
+no MS2: Monoolein,9.38,[7.64:11.12],0,0.284,0.395
+no MS2: 1-Monomyristin,9.15,[7.45:10.85],0,0.323,0.416
+"no MS2: 2,3-dihydroxypropyl stearate",9.39,[7.65:11.13],0,0.283,0.395
+low score: Phosphatidylethanolamine (20:1/16:1) Abbr: GPoPE,9.79,[8.11:11.47],0,0.152,0.33
+"no MS2: (1R,2R,5R,5'S,6S,8aS)-6-(acetyloxy)-2,5,8a-trimethyl-5''-oxo-octahydro-2H-dispiro[naphthalene-1,2':5',3''-bis(oxolane)]-5-ylmethyl acetate",11.7,[11.43:11.97],1,0.731,0.758
+"no MS2: (1S,4S,5R,9S,10R,13R,14R)-14-hydroxy-5,9-dimethyl-14-{[(3-methylbutanoyl)oxy]methyl}tetracyclo[11.2.1.0?,??.0?,?]hexadecane-5-carboxylic acid",9.49,[7.75:11.23],0,0.263,0.385
+"no MS2: [(3R,6R)-3,4,5-tris(acetyloxy)-6-(6-{[4-({3,5-dioxo-2-[(2R,5R)-3,4,5-tris(acetyloxy)-6-[(acetyloxy)methyl]oxan-2-yl]-2,3,4,5-tetrahydro-1,2,4-triazin-6-yl}sulfanyl)butyl]sulfanyl}-3,5-dioxo-2,3,4,5-tetrahydro-1,2,4-triazin-2-yl)oxan-2-yl]methyl acetat...",10.08,[8.6:11.56],0,0.121,0.339
+"no MS2: [(2E,6Z,10Z)-7,11-bis(acetyloxymethyl)-3,15-dimethylhexadeca-2,6,10,14-tetraenyl] acetate",11.69,[11.41:11.97],1,0.67,0.737
+no MS2: Rhodinyl Acetate,5.73,[5.55:5.97],1,0.975,0.887
+no MS2: Phenethylacetate,5.23,[4.9:5.56],1,0.966,0.887
+2-(4-oxoquinazolin-3(4H)-yl)ethyl isobutyrate,7.93,[7.66:8.2],1,0.993,0.896
+"no MS2: S-((3S,10R,13R)-10,13-dimethyl-17-octyl-2,3,4,7,8,9,10,11,12,13,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-3-yl) 2-bromohexanethioate",11.68,[11.4:11.96],0,0.363,0.633
+"low score: 4,4?-Dichlorobenzophenone",8.22,[7.87:8.55],1,0.992,0.894
+low score: Furohyperforin,10.18,[8.69:11.67],0,0.265,0.386
+"4',5-dihydroxy-7-methoxyisoflavone, 4'-o-beta-d-galactopyranoside",9.5,[7.76:11.24],0,0.086,0.328
+"no MS2: 5-hydroxy-3-(4-methoxyphenyl)-7-[3,4,5-trihydroxy-6-[(3,4,5-trihydroxy-6-methyloxan-2-yl)oxymethyl]oxan-2-yl]oxychromen-4-one",9.56,[7.82:11.3],0,0.056,0.317
+"no MS2: 1,2-Cyclohexanedione",4.53,[4.04:5.02],1,0.98,0.819
+"no MS2: (1r,5R,7S)-5,7-diethyl-2-phenyl-1,3-diazaadamantan-6-one",9.72,[9.58:9.9],1,0.99,0.919
+no MS2: mangiferin,9.57,[7.84:11.3],0,0.049,0.315
+no MS2: Wulignan A1,9.41,[7.67:11.15],0,0.279,0.393
+"no MS2: Ingenol-5,20-acetonide",9.44,[7.7:11.18],0,0.274,0.39
+"no MS2: Ingenol-3,4-5,20-diacetonide",11.71,[11.44:11.98],1,0.808,0.785
+"no MS2: Isoflavanone base + 3O, 2Prenyl; PlaSMA ID-2221",9.39,[7.65:11.13],0,0.163,0.355
+"low score: 6,7-dimethoxy-1-phenyl-8H-benzo[c]indolo[3,2,1-ij][1,5]naphthyridin-8-one",11.68,[11.4:11.96],0,0.422,0.653
+no MS2: 2'-O-methyl-Kurarinone,9.64,[7.9:11.38],0,0.228,0.371
+no MS2: Rutilantinone,9.49,[7.75:11.23],0,0.086,0.328
+no MS2: vitamin K1,11.68,[11.4:11.96],0,0.488,0.675
+"no MS2: 2-methoxy-1-methyl-3-(1-methyl-2,5-dioxo-2,5-dihydro-1h-pyrrol-3-yl)-1h-benzo[f]indole-4,9-dione",11.68,[11.4:11.96],1,0.578,0.706
+Isopongaflavone,10.45,[9.32:11.43],1,0.946,0.658
+no MS2: Eupafolin,9.41,[7.67:11.15],0,0.117,0.34
+no MS2: Sciadopitysin,9.55,[7.81:11.29],0,0.136,0.343
+"no MS2: 8-[(2S,3R,4R,5S,6R)-3,4-dihydroxy-6-(hydroxymethyl)-5-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-2-yl]-5,7-dihydroxy-2-(4-hydroxyphenyl)chromen-4-one",9.6,[7.87:11.33],0,0.038,0.311
+"no MS2: Flavone base + 4O, C-Hex-dHex; PlaSMA ID-2986",9.6,[7.87:11.33],0,0.038,0.311
+no MS2: acacetin,9.23,[7.51:10.95],0,0.308,0.408
+Cimifugin 4'-O-beta-D-glucopyranoside,9.5,[7.76:11.24],0,0.085,0.327
+"low score: (S)-methyl 2-((S)-2-(((S)-7-acetamido-1,2,3-trimethoxy-9-oxo-5,6,7,9-tetrahydrobenzo[a]heptalen-10-yl)amino)-4-(methylthio)butanamido)propanoate",9.74,[8.01:11.47],0,0.18,0.355
+"no MS2: 2-((7-acetamido-1,2,3-trimethoxy-9-oxo-5,6,7,9-tetrahydrobenzo[a]heptalen-10-yl)amino)-N-(3-isopropyl-1H-1,2,4-triazol-5-yl)-4-(methylthio)butanamide",9.56,[7.82:11.3],0,0.132,0.341
+"no MS2: (2S,3R)-2-(((S)-7-acetamido-1,2,3-trimethoxy-9-oxo-5,6,7,9-tetrahydrobenzo[a]heptalen-10-yl)amino)-N-(1-benzylpiperidin-4-yl)-3-methylpentanamide",9.76,[8.03:11.49],0,0.158,0.348
+no MS2: 24-epimakisterone A,9.53,[7.79:11.27],0,0.068,0.321
+no MS2: progesterone,9.87,[9.06:10.68],1,0.986,0.747
+no MS2: Guggulsterone E&Z,10.59,[9.98:11.05],1,0.985,0.798
+"no MS2: (R,E)-6-acetyl-7,9-dihydroxy-8,9b-dimethyl-2-(1-((2-(5-methyl-1H-pyrazol-1-yl)ethyl)amino)ethylidene)dibenzo[b,d]furan-1,3(2H,9bH)-dione",9.6,[7.86:11.34],0,0.238,0.375
+low score: JACAGLABROSIDE B,9.5,[7.76:11.24],0,0.106,0.334
+no MS2: Lunarine,9.37,[7.63:11.11],0,0.165,0.356
+no MS2: Matrine; PlaSMA ID-1050,8.91,[8.38:9.44],1,0.983,0.799
+no MS2: Velvione,8.14,[7.95:8.33],1,0.987,0.903
+no MS2: Doxapram,11.69,[11.41:11.97],1,0.677,0.739
+"no MS2: (1S,2R,9R,10S,12S)-12-hydroxy-7,15-diazatetracyclo[7.7.1.0^{2,7}.0^{10,15}]heptadecan-6-one",10.72,[9.41:12.03],1,0.782,0.578
+no MS2: MMV676603,10.78,[9.64:11.66],1,0.982,0.677
+"no MS2: (E)-5-hydroxy-3-isobutyl-6-(3-methylbenzylidene)-1,6-dihydropyrazin-2(3H)-one",10.26,[9:11.52],1,0.805,0.603
+"no MS2: (3Z)-3-butylidene-6,7-dihydroxy-4,5,6,7-tetrahydro-2-benzofuran-1-one",8.39,[7.44:9.59],0,0.364,0.488
+no MS2: destruxin A,9.72,[7.98:11.46],0,0.193,0.359
+no MS2: Emericellamide A,9.5,[7.76:11.24],0,0.085,0.327
+"no MS2: (4R,6S,8S,9Z,11E)-16-chloro-17,19-dihydroxy-4-methyl-3,7-dioxatricyclo[13.4.0.0?,?]nonadeca-1(15),9,11,16,18-pentaene-2,13-dione",9.43,[7.69:11.17],0,0.274,0.39
+"no MS2: 2-(furan-3-yl)-7,8-dihydroxy-6a,7,10b-trimethyl-octahydro-1H-naphtho[2,1-c]pyran-4-one",9.36,[7.62:11.1],0,0.286,0.396
+no MS2: Dihydrokawain,7.88,[7.69:8.07],1,0.985,0.904
+no MS2: Clarithromycin,9.52,[7.78:11.26],0,0.103,0.333
+"[(4R,5S,6R,6aS,7R,10aR,11bR)-5-acetyloxy-6-hydroxy-10a-methoxy-4,7,11b-trimethyl-9-oxo-1,2,3,4a,5,6,6a,7,11,11a-decahydronaphtho[2,1-f][1]benzofuran-4-yl]methyl acetate",10.29,[8.8:11.78],0,0.382,0.424
+no MS2: Demethylwedelolactone,9.42,[7.68:11.16],0,0.116,0.339
+"low score: 4,5,8,12-diepoxy-1(10),7,11-germacratrien-15,6-olide",8.86,[8.74:8.98],1,0.984,0.93
+"no MS2: 3,4-dimethyl-9-phenyl-7H-furo[2,3-f]chromen-7-one",10.91,[10.82:11],1,0.978,0.919
+low score: Medicagol,10.52,[9.04:12],0,0.534,0.473
+low score: Oxypeucedanin hydrate,9.3,[7.57:11.03],0,0.297,0.402
+no MS2: gitoxigenin,9.35,[7.61:11.09],0,0.168,0.358
+no MS2: Periplocymarin,9.46,[7.72:11.2],0,0.152,0.349
+"no MS2: Oleanane -4H, + 2O; PlaSMA ID-2419",9.56,[7.81:11.31],0,0.248,0.379
+low score: NEROL,7.65,[6.14:9.16],1,0.84,0.556
+low score: Lagochilin,9.41,[7.67:11.15],0,0.117,0.34
+low score: OMEGA-HYDROXYDODECANOATE,8.13,[7.44:8.95],0,0.427,0.555
+no MS2: DOCOSANOL,10.69,[9.23:12.06],0,0.613,0.499
+Triethanolamine; LC-ESI-QTOF; MS2; CE,7.26,[6.13:8.39],0,0.193,0.428
+no MS2: 1COOH-2But-A7EO3,9.02,[7.44:10.69],0,0.345,0.43
+no MS2: CINNAMYL ALCOHOL,7.02,[5.28:8.57],1,0.848,0.537
+no MS2: Bisucaberin,9.43,[7.69:11.17],0,0.115,0.339
+Diphenylphosphate,10.56,[9.47:11.65],1,0.856,0.644
+"no MS2: 2-[(4,6-diamino-1,3,5-triazin-2-yl)thio]-Ethanesulfonic acid",8.21,[7.46:8.96],0,0.088,0.408
+no MS2: (3R,4.56,[1.9:7.3],0,0.025,0.236
+low score: h 150 7a hydroxy dhea,9.24,[7.52:10.96],0,0.307,0.408
+"no MS2: DG(20:4(5Z,8Z,11Z,14Z)/0:0/20:4(5Z,8Z,11Z,14Z)) (d5)",11.38,[10.54:12.06],0,0.208,0.458
+no MS2: DG(16:0/0:0/16:0) (d5),10.17,[8.68:11.66],0,0.259,0.384
+no MS2: Berberine hydrochloride,11.72,[11.45:11.99],1,0.829,0.793
+"low score: NCGC00180485-03 C21H32O4 (5beta,8alpha,9beta,10alpha,13alpha)-18-Methoxy-18-oxokauran-17-oic acid",10.85,[9.43:12.06],1,0.676,0.521
+"no MS2: NCGC00168796-02 C22H36O7 Grayanotoxane-3,5,6,10,14,16-hexol, 14-acetate, (3beta,6beta,14R,16alpha)-",9.48,[7.74:11.22],0,0.087,0.328
+no MS2: (4R)-4-((5S,0.03,[-0.67:0.73],1,0.836,0.717
+low score: 2-((4R)-4-((5S,0.03,[-0.68:0.74],1,0.832,0.715
+no MS2: Cholic acid,9.43,[7.69:11.17],0,0.115,0.339
+no MS2: (R)-4-((3S,2.84,[1.97:3.71],1,0.543,0.613
+no MS2: methyl (6R)-2-(hydroxymethyl)-6-((3R,0.06,[-0.67:0.79],0,0.3965,0.3495
+no MS2: Clarithromycin N-Oxide,9.52,[7.78:11.26],0,0.104,0.333
+"no MS2: (1S,3R,6S,6aR,6bR,8S,9S,11R,11aR,12R,12aR,14R)-1-ethyl-6,8,11-trihydroxy-3-methyl-10-methylenetetradecahydro-3,6a,12-(epiethane[1,1,2]triyl)-9,11a-methanoazuleno[2,1-b]azocine 1-oxide",9.28,[7.55:11.01],0,0.177,0.363
+"no MS2: 4-(3,14-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)furan-2(5H)-one",9.5,[7.75:11.25],0,0.262,0.385
+no MS2: Euojaponine D,9.79,[8.11:11.47],0,0.146,0.328
+no MS2: brassinolide,9.45,[7.71:11.19],0,0.112,0.337
+no MS2: Camptothecin,10.29,[8.8:11.78],0,0.383,0.424
+low score: Deoxyandrographolide,9.4,[7.66:11.14],0,0.28,0.393
+low score: 14-Deoxyandrographolide,9.38,[7.64:11.12],0,0.284,0.395
+no MS2: amarogentin,9.55,[7.81:11.29],0,0.067,0.321
+no MS2: 6'-O-beta-D-apiofura-Sweroside,9.53,[7.79:11.27],0,0.068,0.321
+"no MS2: (10S,13R)-14-hydroxy-13-methyl-17-(5-oxo-2,5-dihydrofuran-3-yl)-3-(((2R,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)-5-(((2R,3S,4S,5S,6R)-3,4,5-trihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)hexadecahydro-1H-cyclopenta[a]phenan...",9.57,[7.84:11.3],0,0.056,0.317
+no MS2: Demethylzeylasteral,9.43,[7.69:11.17],0,0.156,0.352
+no MS2: N-Nitrosodibutylamine (NDBA),3.74,[3.57:3.91],1,0.974,0.901
+Triphenylphosphine oxide,10.45,[10.1:10.8],1,0.978,0.874
+"low score: (3S,8S,9S,10R,13R,14S,17R)-10,13-dimethyl-17-((R)-6-methylheptan-2-yl)-2,3,4,7,8,9,10,11,12,13,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-3-yl (2-(trimethylammonio)ethyl) phosphate",11.68,[11.4:11.96],0,0.428,0.655
+no MS2: Amino-nitro-toluene; PlaSMA ID-244,7.59,[6.05:9.13],1,0.824,0.548
+no MS2: Cinchophen,11.12,[9.82:12.06],1,0.807,0.575
+no MS2: Phenylpropanolamine,7.86,[7.35:8.37],1,0.758,0.715
+no MS2: quinine,10.62,[9.15:12.06],0,0.584,0.489
+no MS2: Sclareol,9.1,[7.44:10.79],0,0.331,0.421
+no MS2: NCGC00380897-01!2-dec-9-enyl-3-hydroxypentanedioic acid,9.21,[7.49:10.93],0,0.185,0.368
+no MS2: 1-(2-hydroxy-3-methyl)-butyl-hydrocotarnine,10.96,[9.63:12.06],1,0.788,0.569
+"(6E)-2,6,10-trimethyldodeca-6,11-diene-2,3,10-triol",8.53,[7.44:9.81],0,0.188,0.416
+no MS2: isoabienol,10.4,[9.19:11.61],1,0.821,0.616
+no MS2: Alismoxide,8.16,[7.44:9.01],0,0.405,0.542
+no MS2: Beta-Caryophyllene Alcohol,9.17,[8.2:10.14],1,0.867,0.646
+"no MS2: Geranylgeranyl 1,4-hydroquinone",9.53,[7.78:11.28],0,0.254,0.381
+"low score: 7,8-Dihydroxycoumarin; PlaSMA ID-464",8.12,[7.44:8.93],0,0.44,0.562
+"low score: NCGC00169633-02!9-phenyl-1-(2,4,6-trihydroxyphenyl)nonan-1-one",9.31,[7.58:11.04],0,0.173,0.361
+no MS2: 4-Hydroxyphenylethanol,7.73,[7.23:8.23],1,0.853,0.757
+no MS2: Bakuchiol,10.08,[8.8:11.36],1,0.802,0.601
+no MS2: Tyramine; PlaSMA ID-59,7.85,[7.32:8.38],1,0.726,0.7
+no MS2: Guaiacin,9.35,[7.61:11.09],0,0.289,0.398
+low score: p-Coumaraldehyde; PlaSMA ID-208,7.71,[6.24:9.18],1,0.746,0.533
+"no MS2: 3-[(Z)-heptadec-10-enyl]benzene-1,2-diol",9.44,[7.7:11.18],0,0.272,0.39
+"low score: (E)-10a-(2-(allyloxy)styryl)-10,10-dimethyl-3,4,10,10a-tetrahydropyrimido[1,2-a]indol-2-ol",10.38,[8.89:11.87],0,0.453,0.446
+no MS2: NCGC00384999-01 C24H24O10 2-({6-O-[(2E)-3-(4-Hydroxyphenyl)-2-propenoyl]-beta-D-glucopyranosyl}oxy)-3-phenylacrylic acid,9.5,[7.76:11.24],0,0.085,0.327
+no MS2: Talatisamine,9.49,[7.75:11.23],0,0.262,0.385
+no MS2: Cyclovirobuxine D,9.32,[7.59:11.05],0,0.173,0.36
+"no MS2: (2R,2aR,2'R,4R,5R,5'R,6aR,8aS,8bR,9S,11aS,12bS)-5',6a,8a,9-tetramethyldocosahydrospiro[naphtho[2',1':4,5]indeno[2,1-b]furan-10,2'-pyran]-2,2a,4,5-tetraol",9.44,[7.7:11.18],0,0.113,0.338
+no MS2: (3beta)-stigmast-5-en-3-ol,10.35,[8.86:11.84],0,0.426,0.438
+no MS2: cholesterol,10.42,[8.93:11.91],0,0.475,0.453
+no MS2: veratramine,9.37,[7.63:11.11],0,0.165,0.356
+no MS2: (20R)-Protopanaxatriol,9.45,[7.71:11.19],0,0.113,0.337
+"no MS2: 20(S),24(R)-Ocotillol",9.45,[7.71:11.19],0,0.113,0.337
+low score: Gitogenin,9.54,[7.79:11.29],0,0.253,0.381
+no MS2: Incensole,10.8,[9.47:12.06],1,0.779,0.572
+no MS2: tomatidine,9.51,[7.76:11.26],0,0.259,0.383
+no MS2: karakoline,9.3,[7.57:11.03],0,0.174,0.361
+"no MS2: 1,2-Cyclohexanediol",7.44,[6.64:8.08],1,0.645,0.669
+no MS2: Alpha-Tocopherol,10.29,[8.8:11.78],0,0.379,0.423
+low score: sinapyl alcohol,8.11,[7.44:8.92],0,0.441,0.563
+no MS2: Magnoflorine,9.41,[7.67:11.15],0,0.279,0.393
+"no MS2: 6-(4-(2,3-dihydrobenzo[b][1,4]dioxin-6-yl)-3-methyl-1H-pyrazol-5-yl)-2,3-dihydrobenzo[b][1,4]dioxin-5-ol",9.5,[7.75:11.25],0,0.26,0.384
+no MS2: Procyanidin A2,9.59,[7.86:11.32],0,0.042,0.312
+Huperzine A,9.06,[7.44:10.74],0,0.339,0.426
+low score: N-Cyclohexylformamide,4.91,[4.13:5.69],1,0.882,0.741
+"no MS2: Dehydrophytosphingosine (not validated, isomer of 1679); PlaSMA ID-1677",9.4,[7.66:11.14],0,0.118,0.34
+"no MS2: Phytosphingosine (not validated, isomer of 1696); PlaSMA ID-1697",9.4,[7.66:11.14],0,0.118,0.34
+no MS2: Dihydrosphingosine,9.25,[7.53:10.97],0,0.181,0.365
+no MS2: Darutigenol,9.25,[7.53:10.97],0,0.18,0.365
+no MS2: Kirenol,9.4,[7.66:11.14],0,0.117,0.34
+"no MS2: NCGC00381340-01!(5E)-heptadeca-5,16-diene-1,2,4-triol",9.22,[7.5:10.94],0,0.184,0.367
+"no MS2: NCGC00381375-01!(6E)-heptadeca-6,16-diene-1,2,4-triol",9.22,[7.5:10.94],0,0.184,0.367
+"no MS2: icos-19-ene-1,2,4-triol",9.27,[7.54:11],0,0.178,0.363
+"no MS2: NCGC00381375-01!(6E)-heptadeca-6,16-diene-1,2,4-triol [IIN-based on: CCMSLIB00000846358]",9.22,[7.5:10.94],0,0.184,0.367
+no MS2: Glycerophosphorylcholine,8.33,[7.44:9.28],0,0.189,0.45
+no MS2: Kahweol,9.27,[7.54:11],0,0.303,0.405
+low score: Chrysanthemyl Alcohol,6.52,[4.84:8.2],1,0.83,0.55
+"low score: (4,8,8-trimethyldecahydro-1,4-methanoazulen-9-yl)methanol",9.23,[8.32:10.14],1,0.879,0.658
+"no MS2: NCGC00169037-02 C25H34O8 beta-D-Glucopyranoside, 5-(4-hydroxyphenyl)-1-[2-(4-hydroxyphenyl)ethyl]pentyl",9.53,[7.79:11.27],0,0.068,0.321
+low score: Citrusin,9.4,[7.66:11.14],0,0.118,0.34
+no MS2: Pseudoginsenoside RT5,9.56,[7.82:11.3],0,0.056,0.317
+no MS2: Stigmasterol glucoside,9.48,[7.74:11.22],0,0.109,0.335
+"NCGC00169681-03 C22H26O10 [(1S)-1-(beta-D-Glucopyranosyloxy)-5-hydroxy-1,4a,5,7a-tetrahydrocyclopenta[c]pyran-7-yl]methyl benzoate",9.49,[7.75:11.23],0,0.086,0.328
