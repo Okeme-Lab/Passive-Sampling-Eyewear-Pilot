@@ -1,2 +1,2 @@
-# Passive-Sampling-Eyewear-Pilot
+# Passive Sampling Eyewear Pilot
 This is the github repository for Guo et al.'s manuscript, Developing PDMS-coated and uncoated polycarbonate lenses for assessing inhalation exposure to airborne chemicals. The code used for this project is titled PSE_Pilot_Untargeted_Code. Files that the code depends on are found under the model predictions and processed data folders. To use the code, alter file paths to import required files. 
